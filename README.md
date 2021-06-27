@@ -57,6 +57,10 @@
 - Front-end
 - Html5 e CSS
 
+# Como Executa o Projeto
+
+- Executa na sua IDE de preferencia
+
 # Autor
 
 - Jonas Valereo - Técnico em Informática 
