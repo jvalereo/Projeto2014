@@ -7,19 +7,19 @@
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="750" src ="https://user-images.githubusercontent.com/25933386/123557960-3031b000-d76a-11eb-9322-e9491d285d75.jpg"></img>
+<img align="center"  alt="jonas-Layout" height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123557960-3031b000-d76a-11eb-9322-e9491d285d75.jpg"></img>
 </a>
 
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="750" src ="https://user-images.githubusercontent.com/25933386/123557963-3162dd00-d76a-11eb-9e52-731fc4474592.jpg"></img>
+<img align="center"  alt="jonas-Layout" height height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123557963-3162dd00-d76a-11eb-9e52-731fc4474592.jpg"></img>
 </a>
 
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="750" src ="https://user-images.githubusercontent.com/25933386/123557965-31fb7380-d76a-11eb-96e1-9f7fb10b02fc.jpg"></img>
+<img align="center"  alt="jonas-Layout" height ="1300" width ="1500" src ="https://user-images.githubusercontent.com/25933386/123557965-31fb7380-d76a-11eb-96e1-9f7fb10b02fc.jpg"></img>
 </a>
 
 ##
