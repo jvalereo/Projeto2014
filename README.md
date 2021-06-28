@@ -44,7 +44,7 @@
 - Feira técnica é a onde os alunos apresenta seus projetos desenvolvido individualmente, com participação de professsores
   e outros alunos de outros cursos, para avaliação de nota de cada projeto em exposição na feira tecnica, o ganhador com o melhor projeto, ganha a nota
   máxima, e um prêmio de participação
-- O importante foi o aprendezido, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento de site na instituição em 2014
+- O importante foi o aprendizado, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento de site na instituição em 2014
 - Site não é  responsivo, não é tcc de conclusão de trabalho, só treinamento e aprendendo a desenvolver técnica básica de TPI no 1º modulo Etec de São Paulo
 - INSTITUIÇÃO DE ENSINO: ETEC DE SÃO PAULO - 1º Modulo do Curso Técnico em Informática
 - Obs: Retirei os video deste site , porque não comportar no GitHub
