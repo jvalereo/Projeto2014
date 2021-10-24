@@ -41,7 +41,7 @@
 - SITE-PROJETO 1º MODULO: TRABALHO DE CONCLUSÃO CURSO - CURSO TÉCNICO EM INFORMÁTICA - ETESP
 - Trabalho de conclusão de curso 1º modulo valendo nota, desenvolver site básico, escolha de tema individual para cada aluno
 - Tema do projeto: Devenvolver um site Evento de Computadores Tuning para a apresentação da feira Técnica na própria escola, projeto individual
-- Feira técnica é a onde os alunos apresenta seus projetos desenvolvido individualmente, com participação de professsores
+- Feira técnica é a onde os alunos apresenta seus projetos desenvolvido individualmente, com participação de professores
   e outros alunos de outros cursos, para avaliação de nota de cada projeto em exposição na feira tecnica, o ganhador com o melhor projeto, ganha a nota
   máxima, e um prêmio de participação
 - O importante foi o aprendizado, e o conhecimento básicos e aperfeiçomento em técnicas e desenvolvimento de site na instituição em 2014
